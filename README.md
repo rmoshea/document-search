@@ -1,5 +1,5 @@
 # document-search: Cerberus
-program to search a set of documents for the given search term or phrase, and return results in order of relevance
+program to search a set of documents for the given search term or phrase
 
 ### case study
 - 3 files were provided for search context a 4th "gutenberg.txt" was added to test searching a large size file (1,000+ lines)
