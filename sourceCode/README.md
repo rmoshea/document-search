@@ -8,7 +8,9 @@
 #### Run the program via command line
 This is the recommended option that has been tested and will work for both Mac and Windows operating systems with Python installed
 
-1. Save the cerberus_0_2_8.py file locally -- Windows users should save this file directly in their Python folder
+1. Save the cerberus_0_2_8.py file locally
+  - File is located directly in the sourceCode folder
+  - Windows users should save this file directly in their Python folder
 2. Via command line, install the **requests** python module
   ```bash
   #Mac
