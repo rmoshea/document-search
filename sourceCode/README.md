@@ -29,7 +29,7 @@ C:\Python27> python cerberus_0_2_8.py
 ```
 
 #### Run the program as a standalone app
-NOTE: This option will only work for those running on a Mac OS. Option not recommended as it is still going through testing cycles
+NOTE: This option will only work for those running on a Mac OS and is not a recommended option as it is still going through testing cycles
 
 1. Navigate to the **dist** directory where the bundled application is stored
 ```bash
