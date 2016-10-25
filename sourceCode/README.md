@@ -20,13 +20,13 @@ This is the recommended option that has been tested and will work for both Mac a
   > Scripts\easy_install.exe requests
   ```
 3. From the command line, navigate to where the cerberus_0_2_8.py file is stored and execute the following commands to run the program
-```bash
-#Mac
-$ python cerberus_0_2_8.py
+  ```bash
+  #Mac
+  $ python cerberus_0_2_8.py
 
-#Windows
-C:\Python27> python cerberus_0_2_8.py
-```
+  #Windows
+  C:\Python27> python cerberus_0_2_8.py
+  ```
 <br>
 
 #### Run the program as a standalone app
