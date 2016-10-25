@@ -6,7 +6,7 @@
 ## Instructions for running program
 
 #### Run the program via command line
-NOTE: This is the recommended option that will work for both Mac and Windows operating systems with Python installed
+This is the recommended option that has been tested and will work for both Mac and Windows operating systems with Python installed
 
 1. Save the cerberus_0_2_8.py file locally --
 2. Via command line, install the **requests** python module
@@ -27,7 +27,7 @@ C:\Python27> python cerberus_0_2_8.py
 ```
 
 #### Run the program as a standalone app
-NOTE: This option will only work user is running a Mac OS. Option not recommended as it is still going through testing
+NOTE: This option will only work for those running on a Mac OS. Option not recommended as it is still going through testing cycles
 
 1. Navigate to the **dist** directory where the bundled application is stored
 ```bash
