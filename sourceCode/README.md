@@ -33,8 +33,8 @@ This is the recommended option that has been tested and will work for both Mac a
 NOTE: This option will only work for those running on a Mac OS and is not a recommended option at this time as it is still going through testing cycles
 
 1. Navigate to the **dist** directory where the bundled application is stored
-```bash
-rmoshea / document-search / sourceCode / dist
-```
+  ```bash
+  rmoshea / document-search / sourceCode / dist
+  ```
 2. Download the cerberus_0_2_8.app file by clicking the **Download** button
 3. Double-click and execute program
