@@ -24,7 +24,7 @@ $ python cerberus_0_2_8.py
 
 #Windows
 C:\Python27> python cerberus_0_2_8.py
-
+```
 
 #### Run the program as a standalone app
 NOTE: This option will only work user is running a Mac OS. Option not recommended as it is still going through testing
