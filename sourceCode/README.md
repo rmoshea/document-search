@@ -5,19 +5,33 @@
 
 ## Instructions for running program
 
-#### Run the program as a standalone app
-NOTE: This option will only work for those running a Mac OS
+#### Run the program via command line
+NOTE: This is the recommended option that will work for both Mac and Windows operating systems with Python installed
 
-1. Download the cerberus_0_2_8.app file from the dist directory
+1. Save the cerberus_0_2_8.py file locally --
+2. Via command line, install the **requests** python module
+  ```bash
+  #Mac
+  $ sudo pip install requests
+
+  #Windows
+  > Scripts\easy_install.exe requests
+  ```
+3. From the command line, navigate to where the cerberus_0_2_8.py file is stored and execute the following commands to run the program
+```bash
+#Mac
+$ python cerberus_0_2_8.py
+
+#Windows
+C:\Python27> python cerberus_0_2_8.py
+
+
+#### Run the program as a standalone app
+NOTE: This option will only work user is running a Mac OS. Option not recommended as it is still going through testing
+
+1. Navigate to the **dist** directory where the bundled application is stored
 ```bash
 rmoshea / document-search / sourceCode / dist
 ```
-2.
-
-
-
-#### Run the program via command line
-NOTE: This option will work for both Mac and Windows operating systems
-
-1. Save the cerberus_0_2_8.py file locally (fork and clone this repo
-2.
+2. Download the cerberus_0_2_8.app file by clicking the **Download** button
+3. Double-click and execute program
