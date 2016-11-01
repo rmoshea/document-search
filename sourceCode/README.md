@@ -44,7 +44,7 @@ This option has been tested and will work for both Mac and Windows operating sys
 
 
 #### [Option 3] Run the program as a standalone app
-**WARNING:** This option is only compatible for those running on a Mac OS and is **not a recommended option** at this time as it is still going through testing cycles.
+**WARNING:** This option is only compatible for those running on a Mac OS and is **not a recommended** at this time as it is still going through testing cycles.
 
 NOTE: If you already forked and cloned this repo skip to step 3
 
