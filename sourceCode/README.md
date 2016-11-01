@@ -46,12 +46,10 @@ This option has been tested and will work for both Mac and Windows operating sys
 #### [Option 3] Run the program as a standalone app
 **WARNING:** This option is only compatible for those running on a Mac OS and is **not a recommended** at this time as it is still going through testing cycles.
 
-NOTE: If you already forked and cloned this repo skip to step 3
-
-1. Navigate to the **dist** directory where the bundled application is stored
+1. Clone this repo
+2. In Finder navigate to the **dist** directory where the bundled standalone application is stored
 
   ```bash
-  sourceCode / pythonApp / dist
+  / document-search / sourceCode / pythonApp / dist
   ```
-2. Download the cerberus_0_2_8.app file by clicking the **Download** button
 3. Double-click on the cerberus_0_2_8.app program to open
