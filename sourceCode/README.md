@@ -8,7 +8,7 @@
 The best and easiest way to download and interact with all cerberus files is to fork and clone this repo
 
 
-#### Run the program in Terminal
+#### [Option 1] Run the program in Terminal
 This is the recommended option for Mac users that have cloned all files locally
 
 1. In Finder navigate to the cerberus_0_2_8 unix executable file
@@ -19,7 +19,7 @@ This is the recommended option for Mac users that have cloned all files locally
 2. Control-click on the cerberus_0_2_8 executable and select open with Terminal
 
 
-#### Run the program through python via command line
+#### [Option 2] Run the program through python via command line
 This option has been tested and will work for both Mac and Windows operating systems with Python installed
 
 1. If you decided not to fork and clone this repo you will need to save the cerberus_0_2_8.py file locally
@@ -43,7 +43,7 @@ This option has been tested and will work for both Mac and Windows operating sys
   ```
 
 
-#### Run the program as a standalone app
+#### [Option 3] Run the program as a standalone app
 **WARNING:** This option is only compatible for those running on a Mac OS and is **not a recommended option** at this time as it is still going through testing cycles.
 
 NOTE: If you already forked and cloned this repo skip to step 3
