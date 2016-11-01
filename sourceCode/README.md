@@ -6,6 +6,8 @@
 ## Instructions for running program
 The best and easiest way to download and interact with all cerberus files is to fork and clone this repo
 
+<br>
+
 #### Run the program Terminal
 This is the recommended option for Mac users that have cloned all files locally and have python installed
 
