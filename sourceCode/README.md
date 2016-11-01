@@ -8,8 +8,8 @@
 The best and easiest way to download and interact with all cerberus files is to fork and clone this repo
 
 <br>
-#### Run the program Terminal
-This is the recommended option for Mac users that have cloned all files locally and have python installed
+#### Run the program in Terminal
+This is the recommended option for Mac users that have cloned all files locally
 
 1. In Finder navigate to the cerberus_0_2_8 unix executable file
 
