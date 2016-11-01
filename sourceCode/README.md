@@ -4,10 +4,23 @@
 - source code written in python version 2.7.10
 
 ## Instructions for running program
-The best and easiest way to download all cerberus files is to fork and clone this repo
+The best and easiest way to download and interact with all cerberus files is to fork and clone this repo
 
-#### Run the program via command line
-This is the recommended option that has been tested and will work for both Mac and Windows operating systems with Python installed
+#### Run the program Terminal
+This is the recommended option for Mac users that have cloned all files locally and have python installed
+
+1. In Finder navigate to the cerberus_0_2_8 unix executable file
+
+  ```bash
+  document-search / sourceCode / pythonApp / dist / cerberus_0_2_8 / cerberus_0_2_8
+  ```
+2. Control-click on the cerberus_0_2_8 executable and select open with Terminal
+
+
+<br>
+
+#### Run the program through python via command line
+This option has been tested and will work for both Mac and Windows operating systems with Python installed
 
 1. If you decided not to fork and clone this repo you will need to save the cerberus_0_2_8.py file locally
   - File is located directly in the sourceCode folder
@@ -31,7 +44,7 @@ This is the recommended option that has been tested and will work for both Mac a
 <br>
 
 #### Run the program as a standalone app
-**WARNING:** This option will only work for those running on a Mac OS and is **not a recommended option** at this time as it is still going through testing cycles.
+**WARNING:** This option is only compatible for those running on a Mac OS and is **not a recommended option** at this time as it is still going through testing cycles.
 
 NOTE: If you already forked and cloned this repo skip to step 3
 
