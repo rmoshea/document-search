@@ -4,11 +4,12 @@
 - source code written in python version 2.7.10
 
 ## Instructions for running program
+The best and easiest way to download all cerberus files is to fork and clone this repo
 
 #### Run the program via command line
 This is the recommended option that has been tested and will work for both Mac and Windows operating systems with Python installed
 
-1. Save the cerberus_0_2_8.py file locally
+1. If you decided not to fork and clone this repo you will need to save the cerberus_0_2_8.py file locally
   - File is located directly in the sourceCode folder
   - Windows users should save this file directly in their Python folder
 2. Via command line, install the **requests** python module
@@ -30,7 +31,9 @@ This is the recommended option that has been tested and will work for both Mac a
 <br>
 
 #### Run the program as a standalone app
-**WARNING:** This option will only work for those running on a Mac OS and is **not a recommended option** at this time as it is still going through testing cycles
+**WARNING:** This option will only work for those running on a Mac OS and is **not a recommended option** at this time as it is still going through testing cycles.
+
+NOTE: If you already forked and cloned this repo skip to step 3
 
 1. Navigate to the **dist** directory where the bundled application is stored
 
@@ -38,4 +41,4 @@ This is the recommended option that has been tested and will work for both Mac a
   sourceCode / pythonApp / dist
   ```
 2. Download the cerberus_0_2_8.app file by clicking the **Download** button
-3. Control click on the program and choose open
+3. Double-click on the cerberus_0_2_8.app program to open
